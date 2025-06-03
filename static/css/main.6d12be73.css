@@ -1,0 +1,2 @@
+@tailwind base;@tailwind components;@tailwind utilities;.menuXuong:hover .danhSach{display:block}.sanPham:hover .nenSanPham{opacity:1;transform:translateY(0)}.nenHero{background:linear-gradient(90deg,#000000b3,#0000004d)}@keyframes fadeIn{0%{opacity:0;transform:translateY(20px)}to{opacity:1;transform:translateY(0)}}.hieuUngVao{animation:fadeIn 1s ease-out forwards}
+/*# sourceMappingURL=main.6d12be73.css.map*/
